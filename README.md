@@ -50,19 +50,6 @@ Senior React Native Developer with 3+ years of expertise in mobile and web devel
 
 ### [SkiaAnimations](https://github.com/SolankiYogesh/SkiaAnimations)
 React Native Skia Examples and UI chanllenges
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🌐 Connect With Me
 
@@ -70,6 +57,9 @@ React Native Skia Examples and UI chanllenges
 - Email: solankiyogesh3500@gmail.com
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SolankiYogesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SolankiYogesh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SolankiYogesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=SolankiYogesh&icon=0&color=0)](https://visitcount.itsvg.in)

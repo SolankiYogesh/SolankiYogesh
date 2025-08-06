@@ -53,7 +53,7 @@ React Native Skia Examples and UI chanllenges
 
 ## 🌐 Connect With Me
 
-- Portfolio: [SolankiYogesh.io](https://SolankiYogesh.github.io)
+- Portfolio: [SolankiYogesh.io](https://yogeshsolanki.vercel.app)
 - Email: solankiyogesh3500@gmail.com
 
 ---

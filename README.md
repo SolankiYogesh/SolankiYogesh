@@ -13,7 +13,7 @@ Senior React Native Developer with 3+ years of expertise in mobile and web devel
   <a href="tel:+919904654107">
     <img src="https://img.shields.io/badge/Phone-00C300?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
   </a>
-  <a href="https://sarahchen.dev">
+  <a href="https://yogeshsolanki.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>

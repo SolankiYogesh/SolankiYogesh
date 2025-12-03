@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Yogesh Solanki  
 
-💡 **Senior React Native Developer** with 3+ years of expertise in **mobile and web development**.  
+💡 **Senior React Native Developer** with 4+ years of expertise in **mobile and web development**.  
 I specialize in **Native & Turbo Modules (Kotlin & Objective-C)**, **React.js**, **Django**, and **Node.js**.  
 Passionate about **building high-performance cross-platform apps**, contributing to **open-source**, and exploring **cutting-edge UI/UX solutions**.  
 

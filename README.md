@@ -70,9 +70,6 @@ Passionate about **building high-performance cross-platform apps**, contributing
 ### 🔹 [SkiaAnimations](https://github.com/SolankiYogesh/SkiaAnimations)  
 🎨 React Native Skia Examples & UI challenges  
 
-### 🔹 [Reeva AI](#) *(Private Project)*  
-📄 AI-powered contract drafting app focused on UK legal documents  
-
 ### 🔹 [Klizpy](#) *(Private Project)*  
 🎬 Short-video entertainment platform with live features  
 

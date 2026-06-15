@@ -1,6 +1,6 @@
-<div align="center">
-![Yogesh Solanki — Mobile & Web Developer](./header.svg)
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SolankiYogesh/SolankiYogesh/main/header.svg" alt="Yogesh Solanki — Mobile & Web Developer" />
+</p>
 
 <div align="center">
 

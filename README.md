@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Yogesh%20Solanki&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Mobile%20%26%20Web%20Developer%20%7C%20React%20Native%20Specialist&amp;descAlignY=55&amp;descSize=16" width="100%" />
-
+![Yogesh Solanki — Mobile & Web Developer](./header.svg)
 </div>
 
 <div align="center">

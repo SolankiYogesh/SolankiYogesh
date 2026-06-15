@@ -159,7 +159,7 @@ const yogesh = {
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       </p>
-      <a href="https://SolankiYogesh.github.io">
+      <a href="https://yogesh.ciertolab.in">
         <img src="https://img.shields.io/badge/Live_Demo-60A5FA?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
     </td>

@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SolankiYogesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e14&title_color=7ee787&icon_color=79c0ff&text_color=c9d1d9" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolankiYogesh&layout=compact&hide_border=true&bg_color=0a0e14&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
+<img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=SolankiYogesh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e14&title_color=7ee787&icon_color=79c0ff&text_color=c9d1d9" />
+<img height="165em" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=SolankiYogesh&layout=compact&hide_border=true&bg_color=0a0e14&title_color=7ee787&text_color=c9d1d9&langs_count=8" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SolankiYogesh&hide_border=true&background=0a0e14&stroke=30363d&ring=7ee787&fire=e3b341&currStreakLabel=7ee787&sideLabels=79c0ff&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
 

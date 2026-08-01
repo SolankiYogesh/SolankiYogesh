@@ -46,9 +46,6 @@
 ⭐  7   react-native-nitro-image-colors      extract prominent colors from an image
 ⭐  6   react-native-nitro-media-metadata    read metadata from any image, video or audio
 ⭐  6   rn-date-format                       device 12h/24h time format, natively
-⭐  2   remote-logger                        real-time logging + a live Next.js dashboard
-⭐  1   react-native-real-path               resolve real paths from content:// URIs
-   —    rn-camera-roll-fetcher-ios           iOS ph:// asset URIs → usable file:// paths
 ```
 
 <sub>→ install any of these with `npm i <package-name>`, all links on <a href="https://www.npmjs.com/~solankiyogesh">npmjs.com/~solankiyogesh</a></sub>

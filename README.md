@@ -59,7 +59,7 @@
 | 📱 | **Klipzy** | Short-video app — emoji reactions drive a real-time creator leaderboard | [Play Store](https://play.google.com/store/apps/details?id=com.klipzy&hl=en) |
 | 🌾 | **Gam Ni Vato** | Farmer marketplace — sell produce, check prices, find nearby dealers | [Play Store](https://play.google.com/store/apps/details?id=com.gamnivato&hl=en) |
 | 🔧 | **Handy Man** | Find & register as a handyman — plumbers, electricians, mechanics | [Play Store](https://play.google.com/store/apps/details?id=com.sy.handyman&hl=en_IN) |
-| 🥗 | **BrainShield** | Scan a product's ingredients, find out if it's actually healthy | [Play Store](https://play.google.com/store/apps/details?id=com.sy.handyman&hl=en_IN) |
+| 🥗 | **BrainShield** | Scan a product's ingredients, find out if it's actually healthy | [Play Store](https://play.google.com/store/apps/details?id=com.ciertolab.focusguard) |
 | 🌐 | **Portfolio** | React + GSAP + tsParticles — cinematic loader, custom cursor | [Live](https://yogesh.ciertolab.in) |
 
 <br/>
